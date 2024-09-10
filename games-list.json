@@ -1,0 +1,21 @@
+[
+   {
+      "name": "15 Dias: The Spanish Golden Age",
+      "players": "2-8",
+      "duration": "60",
+      "age": "12+",
+      "difficulty": 3,
+      "type": "estrategia",
+      "image": "imagen3.jpg"
+   },
+   {
+      "name": "Catan",
+      "players": "3-4",
+      "duration": "90",
+      "age": "10+",
+      "difficulty": 2,
+      "type": "estrategia",
+      "image": "imagen-catan.jpg"
+   }
+   // Más juegos
+]
