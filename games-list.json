@@ -1,21 +1,57 @@
 [
-   {
-      "name": "15 Dias: The Spanish Golden Age",
-      "players": "2-8",
-      "duration": "60",
-      "age": "12+",
-      "difficulty": 3,
-      "type": "estrategia",
-      "image": "imagen3.jpg"
-   },
-   {
-      "name": "Catan",
-      "players": "3-4",
-      "duration": "90",
-      "age": "10+",
-      "difficulty": 2,
-      "type": "estrategia",
-      "image": "imagen-catan.jpg"
-   }
-   // Más juegos
+  {
+    "name": "15 Dias: The Spanish Golden Age",
+    "players": "2-8",
+    "duration": "60",
+    "age": "12+",
+    "difficulty": 3,
+    "type": "estrategia",
+    "image": "imagen3.jpg"
+  },
+  {
+    "name": "Catan",
+    "players": "3-4",
+    "duration": "90",
+    "age": "10+",
+    "difficulty": 2,
+    "type": "estrategia",
+    "image": "imagen-catan.jpg"
+  },
+  {
+    "name": "Carcassonne",
+    "players": "2-5",
+    "duration": "35",
+    "age": "8+",
+    "difficulty": 1,
+    "type": "familiar",
+    "image": "imagen-carcassonne.jpg"
+  },
+  {
+    "name": "Pandemic",
+    "players": "2-4",
+    "duration": "45",
+    "age": "10+",
+    "difficulty": 3,
+    "type": "cooperativo",
+    "image": "imagen-pandemic.jpg"
+  },
+  {
+    "name": "Ticket to Ride",
+    "players": "2-5",
+    "duration": "60",
+    "age": "8+",
+    "difficulty": 2,
+    "type": "estrategia",
+    "image": "imagen-ttr.jpg"
+  },
+  {
+    "name": "Azul",
+    "players": "2-4",
+    "duration": "30",
+    "age": "8+",
+    "difficulty": 1,
+    "type": "abstracto",
+    "image": "imagen-azul.jpg"
+  }
 ]
+
