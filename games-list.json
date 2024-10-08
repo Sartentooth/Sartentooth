@@ -116,5 +116,1058 @@
     "type": "abstracto",
     "image": "imagen-azul.jpg"
   }
+  {
+    "name": "Friday",
+    "players": "2",
+    "duration": "30",
+    "age": "12",
+    "difficulty": 0,
+    "type": "familiar",
+    "image": "imagen3.jpg"
+  },
+  {
+    "name": "¿Quién fue?",
+    "players": "",
+    "duration": "",
+    "age": "",
+    "difficulty": 0,
+    "type": "",
+    "image": ""
+  },
+  {
+    "name": "Niebla en Carcassone",
+    "players": "",
+    "duration": "",
+    "age": "",
+    "difficulty": 0,
+    "type": "",
+    "image": ""
+  },
+  {
+    "name": "7 wonders DUEL",
+    "players": "2",
+    "duration": "",
+    "age": "",
+    "difficulty": 0,
+    "type": "estrategia",
+    "image": ""
+  },
+  {
+    "name": "Pandemic",
+    "players": "",
+    "duration": "",
+    "age": "",
+    "difficulty": 0,
+    "type": "",
+    "image": ""
+  },
+  {
+    "name": "Eldritch Horror",
+    "players": "",
+    "duration": "",
+    "age": "",
+    "difficulty": 0,
+    "type": "",
+    "image": ""
+  },
+  {
+    "name": "The mind",
+    "players": "",
+    "duration": "",
+    "age": "",
+    "difficulty": 0,
+    "type": "",
+    "image": ""
+  },
+  {
+    "name": "Paso del Brahman",
+    "players": "",
+    "duration": "",
+    "age": "",
+    "difficulty": 0,
+    "type": "",
+    "image": ""
+  },
+  {
+    "name": "Escapa El misterio de El Dorado",
+    "players": "",
+    "duration": "",
+    "age": "",
+    "difficulty": 0,
+    "type": "escape",
+    "image": ""
+  },
+  {
+    "name": "Operación signo",
+    "players": "",
+    "duration": "",
+    "age": "",
+    "difficulty": 0,
+    "type": "",
+    "image": ""
+  },
+  {
+    "name": "Bandido",
+    "players": "",
+    "duration": "",
+    "age": "",
+    "difficulty": 0,
+    "type": "",
+    "image": ""
+  },
+  {
+    "name": "Pasantes",
+    "players": "",
+    "duration": "",
+    "age": "",
+    "difficulty": 0,
+    "type": "",
+    "image": ""
+  },
+  {
+    "name": "Clue sospechosos",
+    "players": "",
+    "duration": "",
+    "age": "",
+    "difficulty": 0,
+    "type": "misterio",
+    "image": ""
+  },
+  {
+    "name": "Crop Circles",
+    "players": "",
+    "duration": "",
+    "age": "",
+    "difficulty": 0,
+    "type": "",
+    "image": ""
+  },
+  {
+    "name": "Carcassone",
+    "players": "",
+    "duration": "",
+    "age": "",
+    "difficulty": 0,
+    "type": "estrategia",
+    "image": ""
+  },
+  {
+    "name": "Escapa El destino de Londres",
+    "players": "",
+    "duration": "",
+    "age": "",
+    "difficulty": 0,
+    "type": "escape",
+    "image": ""
+  },
+  {
+    "name": "Red 7",
+    "players": "",
+    "duration": "",
+    "age": "",
+    "difficulty": 0,
+    "type": "",
+    "image": ""
+  },
+  {
+    "name": "Crazix",
+    "players": "",
+    "duration": "",
+    "age": "",
+    "difficulty": 0,
+    "type": "",
+    "image": ""
+  },
+  {
+    "name": "Bunny Kingdom",
+    "players": "",
+    "duration": "",
+    "age": "",
+    "difficulty": 0,
+    "type": "",
+    "image": ""
+  },
+  {
+    "name": "¡Aventureros al tren!",
+    "players": "",
+    "duration": "",
+    "age": "",
+    "difficulty": 0,
+    "type": "estrategia",
+    "image": ""
+  },
+  {
+    "name": "Lords of Waterdeep",
+    "players": "",
+    "duration": "",
+    "age": "",
+    "difficulty": 0,
+    "type": "estrategia",
+    "image": ""
+  },
+  {
+    "name": "High society",
+    "players": "",
+    "duration": "",
+    "age": "",
+    "difficulty": 0,
+    "type": "",
+    "image": ""
+  },
+  {
+    "name": "Root",
+    "players": "",
+    "duration": "",
+    "age": "",
+    "difficulty": 0,
+    "type": "estrategia",
+    "image": ""
+  },
+  {
+    "name": "Essential kit D&d",
+    "players": "",
+    "duration": "",
+    "age": "",
+    "difficulty": 0,
+    "type": "rol",
+    "image": ""
+  },
+  {
+    "name": "Spirit Island",
+    "players": "",
+    "duration": "",
+    "age": "",
+    "difficulty": 0,
+    "type": "",
+    "image": ""
+  },
+  {
+    "name": "Catan Edición de viaje",
+    "players": "",
+    "duration": "",
+    "age": "",
+    "difficulty": 0,
+    "type": "estrategia",
+    "image": ""
+  },
+  {
+    "name": "Espionaje",
+    "players": "",
+    "duration": "",
+    "age": "",
+    "difficulty": 0,
+    "type": "",
+    "image": ""
+  },
+  {
+    "name": "La maldición Héroes de Lorthar",
+    "players": "",
+    "duration": "",
+    "age": "",
+    "difficulty": 0,
+    "type": "",
+    "image": ""
+  },
+  {
+    "name": "Héroes y dados",
+    "players": "",
+    "duration": "",
+    "age": "",
+    "difficulty": 0,
+    "type": "",
+    "image": ""
+  },
+  {
+    "name": "Pequeñas grandes Galaxias",
+    "players": "",
+    "duration": "",
+    "age": "",
+    "difficulty": 0,
+    "type": "",
+    "image": ""
+  },
+  {
+    "name": "Rat a tat cat",
+    "players": "",
+    "duration": "",
+    "age": "",
+    "difficulty": 0,
+    "type": "",
+    "image": ""
+  },
+  {
+    "name": "1000 millas",
+    "players": "",
+    "duration": "",
+    "age": "",
+    "difficulty": 0,
+    "type": "",
+    "image": ""
+  },
+  {
+    "name": "Avalon La resistencia",
+    "players": "",
+    "duration": "",
+    "age": "",
+    "difficulty": 0,
+    "type": "",
+    "image": ""
+  },
+  {
+    "name": "Puerto Rico",
+    "players": "",
+    "duration": "",
+    "age": "",
+    "difficulty": 0,
+    "type": "estrategia",
+    "image": ""
+  },
+  {
+    "name": "The red Cathedral",
+    "players": "",
+    "duration": "",
+    "age": "",
+    "difficulty": 0,
+    "type": "",
+    "image": ""
+  },
+  {
+    "name": "Misterio",
+    "players": "",
+    "duration": "",
+    "age": "",
+    "difficulty": 0,
+    "type": "misterio",
+    "image": ""
+  },
+  {
+    "name": "Cartógrafos",
+    "players": "",
+    "duration": "",
+    "age": "",
+    "difficulty": 0,
+    "type": "",
+    "image": ""
+  },
+  {
+    "name": "Código Secreto",
+    "players": "",
+    "duration": "",
+    "age": "",
+    "difficulty": 0,
+    "type": "",
+    "image": ""
+  },
+  {
+    "name": "Root The Riverfolk Expansión",
+    "players": "",
+    "duration": "",
+    "age": "",
+    "difficulty": 0,
+    "type": "estrategia",
+    "image": ""
+  },
+  {
+    "name": "Arkham Horror El juego de cartas",
+    "players": "",
+    "duration": "",
+    "age": "",
+    "difficulty": 0,
+    "type": "",
+    "image": ""
+  },
+  {
+    "name": "Dixit",
+    "players": "",
+    "duration": "",
+    "age": "",
+    "difficulty": 0,
+    "type": "",
+    "image": ""
+  },
+  {
+    "name": "Say my name",
+    "players": "",
+    "duration": "",
+    "age": "",
+    "difficulty": 0,
+    "type": "",
+    "image": ""
+  },
+  {
+    "name": "La maldición: Heroes de Lorthar Mazo de expansión Despertar de las razas",
+    "players": "",
+    "duration": "",
+    "age": "",
+    "difficulty": 0,
+    "type": "",
+    "image": ""
+  },
+  {
+    "name": "Kitsune",
+    "players": "",
+    "duration": "",
+    "age": "",
+    "difficulty": 0,
+    "type": "",
+    "image": ""
+  },
+  {
+    "name": "Viaje al centro de la tierra",
+    "players": "",
+    "duration": "",
+    "age": "",
+    "difficulty": 0,
+    "type": "aventura",
+    "image": ""
+  },
+  {
+    "name": "Claim 2",
+    "players": "",
+    "duration": "",
+    "age": "",
+    "difficulty": 0,
+    "type": "",
+    "image": ""
+  },
+  {
+    "name": "Tucano",
+    "players": "",
+    "duration": "",
+    "age": "",
+    "difficulty": 0,
+    "type": "",
+    "image": ""
+  },
+  {
+    "name": "Respuestas abiertas",
+    "players": "",
+    "duration": "",
+    "age": "",
+    "difficulty": 0,
+    "type": "",
+    "image": ""
+  },
+  {
+    "name": "Deep sea Adventure",
+    "players": "",
+    "duration": "",
+    "age": "",
+    "difficulty": 0,
+    "type": "aventura",
+    "image": ""
+  },
+  {
+    "name": "Cereal killer",
+    "players": "",
+    "duration": "",
+    "age": "",
+    "difficulty": 0,
+    "type": "",
+    "image": ""
+  },
+  {
+    "name": "Día de playa",
+    "players": "",
+    "duration": "",
+    "age": "",
+    "difficulty": 0,
+    "type": "",
+    "image": ""
+  },
+  {
+    "name": "Misión Antártida",
+    "players": "",
+    "duration": "",
+    "age": "",
+    "difficulty": 0,
+    "type": "aventura",
+    "image": ""
+  },
+  {
+    "name": "Bohnanza",
+    "players": "",
+    "duration": "",
+    "age": "",
+    "difficulty": 0,
+    "type": "",
+    "image": ""
+  },
+  {
+    "name": "Yacareté",
+    "players": "",
+    "duration": "",
+    "age": "",
+    "difficulty": 0,
+    "type": "",
+    "image": ""
+  },
+  {
+    "name": "Océanos de papel",
+    "players": "",
+    "duration": "",
+    "age": "",
+    "difficulty": 0,
+    "type": "",
+    "image": ""
+  },
+  {
+    "name": "Saboteur",
+    "players": "",
+    "duration": "",
+    "age": "",
+    "difficulty": 0,
+    "type": "",
+    "image": ""
+  },
+  {
+    "name": "Love Letter",
+    "players": "",
+    "duration": "",
+    "age": "",
+    "difficulty": 0,
+    "type": "",
+    "image": ""
+  },
+  {
+    "name": "El lavarropas",
+    "players": "",
+    "duration": "",
+    "age": "",
+    "difficulty": 0,
+    "type": "",
+    "image": ""
+  },
+  {
+    "name": "Recreo Arcano",
+    "players": "",
+    "duration": "",
+    "age": "",
+    "difficulty": 0,
+    "type": "",
+    "image": ""
+  },
+  {
+    "name": "Sushi go",
+    "players": "",
+    "duration": "",
+    "age": "",
+    "difficulty": 0,
+    "type": "",
+    "image": ""
+  },
+  {
+    "name": "La tripulación",
+    "players": "",
+    "duration": "",
+    "age": "",
+    "difficulty": 0,
+    "type": "",
+    "image": ""
+  },
+  {
+    "name": "El valle secreto",
+    "players": "",
+    "duration": "",
+    "age": "",
+    "difficulty": 0,
+    "type": "",
+    "image": ""
+  },
+  {
+    "name": "Marea alta",
+    "players": "",
+    "duration": "",
+    "age": "",
+    "difficulty": 0,
+    "type": "",
+    "image": ""
+  },
+  {
+    "name": "Las Mansiones de la Locura",
+    "players": "",
+    "duration": "",
+    "age": "",
+    "difficulty": 0,
+    "type": "misterio",
+    "image": ""
+  },
+  {
+    "name": "Montañas de la locura",
+    "players": "",
+    "duration": "",
+    "age": "",
+    "difficulty": 0,
+    "type": "aventura",
+    "image": ""
+  },
+  {
+    "name": "Sagrada",
+    "players": "",
+    "duration": "",
+    "age": "",
+    "difficulty": 0,
+    "type": "",
+    "image": ""
+  },
+  {
+    "name": "The castles of Burgundy",
+    "players": "",
+    "duration": "",
+    "age": "",
+    "difficulty": 0,
+    "type": "estrategia",
+    "image": ""
+  },
+  {
+    "name": "The Lord of te rings The card game",
+    "players": "",
+    "duration": "",
+    "age": "",
+    "difficulty": 0,
+    "type": "cartas",
+    "image": ""
+  },
+  {
+    "name": "Great western trail",
+    "players": "",
+    "duration": "",
+    "age": "",
+    "difficulty": 0,
+    "type": "cartas",
+    "image": ""
+  },
+  {
+    "name": "Great western trail",
+    "players": "",
+    "duration": "",
+    "age": "",
+    "difficulty": 0,
+    "type": "estrategia",
+    "image": ""
+  },
+  {
+    "name": "Wildlands",
+    "players": "",
+    "duration": "",
+    "age": "",
+    "difficulty": 0,
+    "type": "",
+    "image": ""
+  },
+  {
+    "name": "King of tokyo",
+    "players": "",
+    "duration": "",
+    "age": "",
+    "difficulty": 0,
+    "type": "",
+    "image": ""
+  },
+  {
+    "name": "Colt express",
+    "players": "",
+    "duration": "",
+    "age": "",
+    "difficulty": 0,
+    "type": "",
+    "image": ""
+  },
+  {
+    "name": "Alubary El aroma del té",
+    "players": "",
+    "duration": "",
+    "age": "",
+    "difficulty": 0,
+    "type": "",
+    "image": ""
+  },
+  {
+    "name": "Cobble and Fog",
+    "players": "",
+    "duration": "",
+    "age": "",
+    "difficulty": 0,
+    "type": "",
+    "image": ""
+  },
+  {
+    "name": "El fantasma",
+    "players": "",
+    "duration": "",
+    "age": "",
+    "difficulty": 0,
+    "type": "",
+    "image": ""
+  },
+  {
+    "name": "Conejos en el huerto",
+    "players": "",
+    "duration": "",
+    "age": "",
+    "difficulty": 0,
+    "type": "",
+    "image": ""
+  },
+  {
+    "name": "Flick'em up",
+    "players": "",
+    "duration": "",
+    "age": "",
+    "difficulty": 0,
+    "type": "",
+    "image": ""
+  },
+  {
+    "name": "Iki",
+    "players": "",
+    "duration": "",
+    "age": "",
+    "difficulty": 0,
+    "type": "",
+    "image": ""
+  },
+  {
+    "name": "Paleo",
+    "players": "",
+    "duration": "",
+    "age": "",
+    "difficulty": 0,
+    "type": "",
+    "image": ""
+  },
+  {
+    "name": "Terraforming Mars",
+    "players": "",
+    "duration": "",
+    "age": "",
+    "difficulty": 0,
+    "type": "estrategia",
+    "image": ""
+  },
+  {
+    "name": "Brass Birmingham",
+    "players": "",
+    "duration": "",
+    "age": "",
+    "difficulty": 0,
+    "type": "estrategia",
+    "image": ""
+  },
+  {
+    "name": "Damas",
+    "players": "2",
+    "duration": "",
+    "age": "",
+    "difficulty": 0,
+    "type": "abstracto",
+    "image": ""
+  },
+  {
+    "name": "Under Falling Skies",
+    "players": "",
+    "duration": "",
+    "age": "",
+    "difficulty": 0,
+    "type": "",
+    "image": ""
+  },
+  {
+    "name": "Robin Hood",
+    "players": "",
+    "duration": "",
+    "age": "",
+    "difficulty": 0,
+    "type": "aventura",
+    "image": ""
+  },
+  {
+    "name": "Lost ruins of Arnak",
+    "players": "",
+    "duration": "",
+    "age": "",
+    "difficulty": 0,
+    "type": "aventura",
+    "image": ""
+  },
+  {
+    "name": "Twilight Struggle La guerra fría, 1945-1989",
+    "players": "2",
+    "duration": "",
+    "age": "",
+    "difficulty": 0,
+    "type": "estrategia",
+    "image": ""
+  },
+  {
+    "name": "Village rails",
+    "players": "",
+    "duration": "",
+    "age": "",
+    "difficulty": 0,
+    "type": "",
+    "image": ""
+  },
+  {
+    "name": "Marco Polo",
+    "players": "",
+    "duration": "",
+    "age": "",
+    "difficulty": 0,
+    "type": "estrategia",
+    "image": ""
+  },
+  {
+    "name": "Kingdomino",
+    "players": "",
+    "duration": "",
+    "age": "",
+    "difficulty": 0,
+    "type": "",
+    "image": ""
+  },
+  {
+    "name": "Wildlands The adventuring party",
+    "players": "",
+    "duration": "",
+    "age": "",
+    "difficulty": 0,
+    "type": "",
+    "image": ""
+  },
+  {
+    "name": "Trovehamburgo",
+    "players": "",
+    "duration": "",
+    "age": "",
+    "difficulty": 0,
+    "type": "",
+    "image": ""
+  },
+  {
+    "name": "Mazescape labyrinthos",
+    "players": "",
+    "duration": "",
+    "age": "",
+    "difficulty": 0,
+    "type": "puzzle",
+    "image": ""
+  },
+  {
+    "name": "My city",
+    "players": "",
+    "duration": "",
+    "age": "",
+    "difficulty": 0,
+    "type": "",
+    "image": ""
+  },
+  {
+    "name": "Jenga",
+    "players": "",
+    "duration": "",
+    "age": "",
+    "difficulty": 0,
+    "type": "destreza",
+    "image": ""
+  },
+  {
+    "name": "Ajedrez",
+    "players": "2",
+    "duration": "",
+    "age": "",
+    "difficulty": 0,
+    "type": "abstracto",
+    "image": ""
+  },
+  {
+    "name": "Lunes",
+    "players": "",
+    "duration": "",
+    "age": "",
+    "difficulty": 0,
+    "type": "",
+    "image": ""
+  },
+  {
+    "name": "Líderes de euphoria",
+    "players": "",
+    "duration": "",
+    "age": "",
+    "difficulty": 0,
+    "type": "",
+    "image": ""
+  },
+  {
+    "name": "Derby",
+    "players": "",
+    "duration": "",
+    "age": "",
+    "difficulty": 0,
+    "type": "",
+    "image": ""
+  },
+  {
+    "name": "Pepinillo",
+    "players": "",
+    "duration": "",
+    "age": "",
+    "difficulty": 0,
+    "type": "",
+    "image": ""
+  },
+  {
+    "name": "The Lord of te rings The card game: Conflict at carrocks",
+    "players": "",
+    "duration": "",
+    "age": "",
+    "difficulty": 0,
+    "type": "cartas",
+    "image": ""
+  },
+  {
+    "name": "The Lord of te rings The card game: A journey to Rhosgobel",
+    "players": "",
+    "duration": "",
+    "age": "",
+    "difficulty": 0,
+    "type": "cartas",
+    "image": ""
+  },
+  {
+    "name": "Shinobi",
+    "players": "",
+    "duration": "",
+    "age": "",
+    "difficulty": 0,
+    "type": "",
+    "image": ""
+  },
+  {
+    "name": "Dungeon Dealer",
+    "players": "",
+    "duration": "",
+    "age": "",
+    "difficulty": 0,
+    "type": "",
+    "image": ""
+  },
+  {
+    "name": "Los pilares de la Tierra",
+    "players": "",
+    "duration": "",
+    "age": "",
+    "difficulty": 0,
+    "type": "estrategia",
+    "image": ""
+  },
+  {
+    "name": "Kobayakawa",
+    "players": "",
+    "duration": "",
+    "age": "",
+    "difficulty": 0,
+    "type": "",
+    "image": ""
+  },
+  {
+    "name": "What´s up",
+    "players": "",
+    "duration": "",
+    "age": "",
+    "difficulty": 0,
+    "type": "",
+    "image": ""
+  },
+  {
+    "name": "Coup Urbis",
+    "players": "",
+    "duration": "",
+    "age": "",
+    "difficulty": 0,
+    "type": "",
+    "image": ""
+  },
+  {
+    "name": "Finger Twister",
+    "players": "",
+    "duration": "",
+    "age": "",
+    "difficulty": 0,
+    "type": "fiesta",
+    "image": ""
+  },
+  {
+    "name": "El juego de LIFE",
+    "players": "",
+    "duration": "",
+    "age": "",
+    "difficulty": 0,
+    "type": "familiar",
+    "image": ""
+  },
+  {
+    "name": "Monopoly",
+    "players": "",
+    "duration": "",
+    "age": "",
+    "difficulty": 0,
+    "type": "familiar",
+    "image": ""
+  },
+  {
+    "name": "Clue",
+    "players": "",
+    "duration": "",
+    "age": "",
+    "difficulty": 0,
+    "type": "misterio",
+    "image": ""
+  },
+  {
+    "name": "Próxima Estación LONDRES",
+    "players": "",
+    "duration": "",
+    "age": "",
+    "difficulty": 0,
+    "type": "",
+    "image": ""
+  },
+  {
+    "name": "UGA BUGA",
+    "players": "",
+    "duration": "",
+    "age": "",
+    "difficulty": 0,
+    "type": "",
+    "image": ""
+  },
+  {
+    "name": "WE WILL ROC YOU",
+    "players": "",
+    "duration": "",
+    "age": "",
+    "difficulty": 0,
+    "type": "",
+    "image": ""
+  },
+  {
+    "name": "GEEK OUT MASTERS",
+    "players": "",
+    "duration": "",
+    "age": "",
+    "difficulty": 0,
+    "type": "trivia",
+    "image": ""
+  },
+  {
+    "name": "CONTRAST",
+    "players": "",
+    "duration": "",
+    "age": "",
+    "difficulty": 0,
+    "type": "",
+    "image": ""
+  }
 ]
 
