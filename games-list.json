@@ -1,11 +1,11 @@
 [
   {
     "name": "Friday",
-    "players": "",
-    "duration": "",
-    "age": "",
+    "players": "2",
+    "duration": "30",
+    "age": "12",
     "difficulty": 0,
-    "type": "",
+    "type": "familiar",
     "image": ""
   },
   {
