@@ -14,10 +14,7 @@
     "duration": "120",
     "age": "10+",
     "difficulty": 2,
-    "type": [
-      "estrategia",
-      "familiar"
-    ],
+    "type": "familiar",
     "image": "https://cf.geekdo-images.com/W3Bsga_uLP9kO91gZ7H8yw__itemrep/img/IzYEUm_gWFuRFOL8gQYqGm5gU6A=/fit-in/246x300/filters:strip_icc()/pic2419375.jpg"
   },
   {
@@ -35,10 +32,7 @@
     "duration": "45",
     "age": "8+",
     "difficulty": 2,
-    "type": [
-      "estrategia",
-      "familiar"
-    ],
+    "type": "estrategia",
     "image": "https://cf.geekdo-images.com/S3ybV1LAp-8SnHIXLLjVqA__itemrep/img/wAMLbgihOl7dJDHnvqt7OXKEV-4=/fit-in/246x300/filters:strip_icc()/pic1534148.jpg"
   },
   {
@@ -56,10 +50,7 @@
     "duration": "45",
     "age": "8+",
     "difficulty": 2,
-    "type": [
-      "abstracto",
-      "familiar"
-    ],
+    "type": "abstracto",
     "image": "https://cf.geekdo-images.com/aPSHJO0d0XOpQR5X-wJonw__itemrep/img/6oRLPDvy4zz3gOZM6e6NzIk8Seg=/fit-in/246x300/filters:strip_icc()/pic6973671.png"
   },
   {
@@ -104,10 +95,7 @@
     "duration": "240",
     "age": "14+",
     "difficulty": 3,
-    "type": [
-      "tematico",
-      "terror"
-    ],
+    "type": "tematico",
     "image": "https://cf.geekdo-images.com/oxdsZKIX5_3ovDo38EIaeg__itemrep/img/EQReG95qMc561VugTP8CvqO9zKE=/fit-in/246x300/filters:strip_icc()/pic1872452.jpg"
   },
   {
@@ -116,10 +104,7 @@
     "duration": "20",
     "age": "8+",
     "difficulty": 1,
-    "type": [
-      "familiar",
-      "party"
-    ],
+    "type": "party",
     "image": "https://cf.geekdo-images.com/q_JGK291hrhnhiRB0667oA__itemrep/img/w6x_ahGLQVe2u6trDx0kO91OprM=/fit-in/246x300/filters:strip_icc()/pic3979766.png"
   },
   {
@@ -128,10 +113,7 @@
     "duration": "20",
     "age": "8+",
     "difficulty": 2,
-    "type": [
-      "abstracto",
-      "estrategia"
-    ],
+    "type": "abstracto",
     "image": "https://cf.geekdo-images.com/ycgLQQbNi74JCmyEp3lfqA__itemrep/img/HIibUDblWcjOz-Dwbqa28uJ5csQ=/fit-in/246x300/filters:strip_icc()/pic6680530.jpg"
   },
   {
@@ -221,10 +203,7 @@
     "duration": "60",
     "age": "12+",
     "difficulty": 2,
-    "type": [
-      "estrategia",
-      "familiar"
-    ],
+    "type": "estrategia",
     "image": "https://cf.geekdo-images.com/Noz8-u1ba828WUv69pTXKg__itemrep/img/EwNAAUagulHIXWq2Jfj4EnyRO2k=/fit-in/246x300/filters:strip_icc()/pic3613444.jpg"
   },
   {
@@ -260,10 +239,7 @@
     "duration": "90",
     "age": "10+",
     "difficulty": 4,
-    "type": [
-      "estrategia",
-      "wargame"
-    ],
+    "type": "wargame",
     "image": "https://cf.geekdo-images.com/JUAUWaVUzeBgzirhZNmHHw__itemrep/img/sQgkl-_hydBVvQHAMLt2Zk_3dwI=/fit-in/246x300/filters:strip_icc()/pic4254509.jpg"
   },
   {
@@ -366,7 +342,7 @@
     "image": "https://cf.geekdo-images.com/QFiIRd2kimaMqTyWsX0aUg__itemrep/img/YDEozo5DfKYdDp8xi2mAfoV2qWk=/fit-in/246x300/filters:strip_icc()/pic158548.jpg"
   },
   {
-    "name": "The red Cathedral",
+    "name": "The Red Cathedral",
     "players": "1-4",
     "duration": "80",
     "age": "10+",
@@ -437,10 +413,7 @@
     "duration": "90",
     "age": "8+",
     "difficulty": 1,
-    "type": [
-      "familiar",
-      "party"
-    ],
+    "type": "party",
     "image": "https://cf.geekdo-images.com/PK3SkxJg5wGbl51N9ahDxQ__itemrep/img/52rl-R7mJBhGsrlgOsimI2qDzFw=/fit-in/246x300/filters:strip_icc()/pic8200447.jpg"
   },
   {
