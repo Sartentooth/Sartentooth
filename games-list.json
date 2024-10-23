@@ -248,7 +248,7 @@
     "duration": "240",
     "age": "14+",
     "difficulty": 2,
-    "type": "juego de rol",
+    "type": "rol",
     "image": "https://images.ctfassets.net/swt2dsco9mfe/4PCIKluIlxy0zqjLkvp1nr/6f9babddd7e5309e69377a4eb364ef39/GAmtVF6tZQ5dGAZ.prod.es.png?w=540&fm=avif"
   },
   {
@@ -383,10 +383,7 @@
     "duration": "90",
     "age": "10+",
     "difficulty": 4,
-    "type": [
-      "estrategia",
-      "wargame"
-    ],
+    "type": "wargame",
     "image": "https://cf.geekdo-images.com/durhzLYyIypxg7CuVYe82Q__itemrep/img/2xVq5g204iR6RWNuapQ6oRjwHpY=/fit-in/246x300/filters:strip_icc()/pic4252654.jpg"
   },
   {
@@ -395,7 +392,7 @@
     "duration": "120",
     "age": "14+",
     "difficulty": 4,
-    "type": "juego de cartas",
+    "type": "cartas",
     "image": "https://cf.geekdo-images.com/B5F5ulz0UivNgrI9Ky0euA__itemrep/img/b7HiKWaGQKCuG-aU21-Izxt1ym4=/fit-in/246x300/filters:strip_icc()/pic3122349.jpg"
   },
   {
