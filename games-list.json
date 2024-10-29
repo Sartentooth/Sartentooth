@@ -5,7 +5,7 @@
     "duration": "60",
     "age": "12+",
     "difficulty": 3,
-    "type": "estrategia",
+    "type": "Estrategia",
     "image": "https://cf.geekdo-images.com/xYF1rrMkAx7MN-3i2UPSAQ__itemrep/img/oD86QEmpc0WiSFrWjWQHWGMg9cU=/fit-in/246x300/filters:strip_icc()/pic2145124.png"
   },
   {
@@ -14,7 +14,7 @@
     "duration": "120",
     "age": "10+",
     "difficulty": 2,
-    "type": "familiar",
+    "type": "Familiar",
     "image": "https://cf.geekdo-images.com/W3Bsga_uLP9kO91gZ7H8yw__itemrep/img/IzYEUm_gWFuRFOL8gQYqGm5gU6A=/fit-in/246x300/filters:strip_icc()/pic2419375.jpg"
   },
   {
@@ -23,7 +23,7 @@
     "duration": "45",
     "age": "7+",
     "difficulty": 2,
-    "type": "familiar",
+    "type": "Familiar",
     "image": "https://cf.geekdo-images.com/okM0dq_bEXnbyQTOvHfwRA__itemrep/img/_GLRhUoVx6Zp4kTE0rv_gi9cyOQ=/fit-in/246x300/filters:strip_icc()/pic6544250.png"
   },
   {
@@ -32,7 +32,7 @@
     "duration": "45",
     "age": "8+",
     "difficulty": 2,
-    "type": "estrategia",
+    "type": "Estrategia",
     "image": "https://cf.geekdo-images.com/S3ybV1LAp-8SnHIXLLjVqA__itemrep/img/wAMLbgihOl7dJDHnvqt7OXKEV-4=/fit-in/246x300/filters:strip_icc()/pic1534148.jpg"
   },
   {
@@ -41,7 +41,7 @@
     "duration": "60",
     "age": "8+",
     "difficulty": 2,
-    "type": "familiar",
+    "type": "Familiar",
     "image": "https://cf.geekdo-images.com/ZWJg0dCdrWHxVnc0eFXK8w__itemrep/img/iiTIuTtuneM3tbDCjALecsgyizA=/fit-in/246x300/filters:strip_icc()/pic38668.jpg"
   },
   {
@@ -50,7 +50,7 @@
     "duration": "45",
     "age": "8+",
     "difficulty": 2,
-    "type": "abstracto",
+    "type": "Abstracto",
     "image": "https://cf.geekdo-images.com/aPSHJO0d0XOpQR5X-wJonw__itemrep/img/6oRLPDvy4zz3gOZM6e6NzIk8Seg=/fit-in/246x300/filters:strip_icc()/pic6973671.png"
   },
   {
@@ -59,16 +59,16 @@
     "duration": "25",
     "age": "12+",
     "difficulty": 2,
-    "type": "estrategia",
+    "type": "Estrategia",
     "image": "https://cf.geekdo-images.com/7bBUuYUIyKIBDh_UnNa_Fw__itemrep/img/oG3nMt7klhUJwOCvjTawYRxwp1o=/fit-in/246x300/filters:strip_icc()/pic1513328.jpg"
   },
   {
-    "name": "¿Quién fue?",
+    "name": "¿Quién Fue?",
     "players": "3-6",
     "duration": "15",
     "age": "6+",
     "difficulty": 1,
-    "type": "familiar",
+    "type": "Familiar",
     "image": "https://cf.geekdo-images.com/OiQ8TUN72CTd732UjHqXXw__itemrep/img/Bi8i5mhTCVCG-cY-0voDWeZZaic=/fit-in/246x300/filters:strip_icc()/pic3981301.jpg"
   },
   {
@@ -77,16 +77,16 @@
     "duration": "30",
     "age": "8+",
     "difficulty": 2,
-    "type": "familiar",
+    "type": "Familiar",
     "image": "https://devirinvestments.s3.eu-west-1.amazonaws.com/img/catalog/product/8436589628229-1200-frontflat.jpg"
   },
   {
-    "name": "7 wonders DUEL",
+    "name": "7 wonders Duel",
     "players": "2",
     "duration": "30",
     "age": "10+",
     "difficulty": 2,
-    "type": "estrategia",
+    "type": "Estrategia",
     "image": "https://cf.geekdo-images.com/zdagMskTF7wJBPjX74XsRw__itemrep/img/x5L93n_pSsxfFZ0Ir-JqtjLf-Jw=/fit-in/246x300/filters:strip_icc()/pic2576399.jpg"
   },
   {
@@ -95,16 +95,16 @@
     "duration": "240",
     "age": "14+",
     "difficulty": 3,
-    "type": "tematico",
+    "type": "Temático",
     "image": "https://cf.geekdo-images.com/oxdsZKIX5_3ovDo38EIaeg__itemrep/img/EQReG95qMc561VugTP8CvqO9zKE=/fit-in/246x300/filters:strip_icc()/pic1872452.jpg"
   },
   {
-    "name": "The mind",
+    "name": "The Mind",
     "players": "2-4",
     "duration": "20",
     "age": "8+",
     "difficulty": 1,
-    "type": "party",
+    "type": "Party",
     "image": "https://cf.geekdo-images.com/q_JGK291hrhnhiRB0667oA__itemrep/img/w6x_ahGLQVe2u6trDx0kO91OprM=/fit-in/246x300/filters:strip_icc()/pic3979766.png"
   },
   {
@@ -113,16 +113,16 @@
     "duration": "20",
     "age": "8+",
     "difficulty": 2,
-    "type": "abstracto",
+    "type": "Abstracto",
     "image": "https://cf.geekdo-images.com/ycgLQQbNi74JCmyEp3lfqA__itemrep/img/HIibUDblWcjOz-Dwbqa28uJ5csQ=/fit-in/246x300/filters:strip_icc()/pic6680530.jpg"
   },
   {
-    "name": "Escapa El misterio de El Dorado",
+    "name": "Escapa El Misterio de El Dorado",
     "players": "1-6",
     "duration": "90",
     "age": "12+",
     "difficulty": 2,
-    "type": "escape",
+    "type": "Escape",
     "image": "https://cf.geekdo-images.com/a7igIX6l8ov9dPWi4D5Nmw__itemrep/img/bMFqmb-Ao45qov03ffq0L01YGhg=/fit-in/246x300/filters:strip_icc()/pic4323647.png"
   },
   {
@@ -131,7 +131,7 @@
     "duration": "15",
     "age": "8+",
     "difficulty": 1,
-    "type": "familiar",
+    "type": "Familiar",
     "image": "https://cf.geekdo-images.com/mQQWJku9WNaAyg_ka9s_fA__itemrep/img/hcnBYhYLY1L2ED_QqeFyuLlpAYA=/fit-in/246x300/filters:strip_icc()/pic7056756.png"
   },
   {
@@ -140,7 +140,7 @@
     "duration": "15",
     "age": "6+",
     "difficulty": 1,
-    "type": "familiar",
+    "type": "Familiar",
     "image": "https://cf.geekdo-images.com/3kHEzcYV6QdaFjzWXkBMyQ__itemrep/img/_OYlJp8R0GBGdcQqsW3rqQE2qbA=/fit-in/246x300/filters:strip_icc()/pic3118226.jpg"
   },
   {
@@ -149,16 +149,16 @@
     "duration": "30",
     "age": "10+",
     "difficulty": 1,
-    "type": "familiar",
+    "type": "Familiar",
     "image": "https://cf.geekdo-images.com/dYjMi2Vq3jfIYlq_Dc1Emw__itemrep/img/QLw0GSmsFowMFsaLNkAQsBKZEF4=/fit-in/246x300/filters:strip_icc()/pic8370881.png"
   },
   {
-    "name": "Clue sospechosos",
+    "name": "Clue Sospechosos",
     "players": "3-4",
     "duration": "15",
     "age": "8+",
     "difficulty": 1,
-    "type": "familiar",
+    "type": "Familiar",
     "image": "https://cf.geekdo-images.com/CG061D2bot2RpmX12-c07g__itemrep/img/eHPWgEn5FhrZ-f2RepWCcZAzf28=/fit-in/246x300/filters:strip_icc()/pic924298.jpg"
   },
   {
@@ -167,16 +167,16 @@
     "duration": "25",
     "age": "8+",
     "difficulty": 2,
-    "type": "estrategia",
+    "type": "Estrategia",
     "image": "https://cf.geekdo-images.com/TMrBOO7dMxqSJdk_qwwmKg__itemrep/img/9JJ4SJy1Zf5iCMwZiORCajPTRH8=/fit-in/246x300/filters:strip_icc()/pic6537403.png"
   },
   {
-    "name": "Escapa El destino de Londres",
+    "name": "Escapa El Destino de Londres",
     "players": "1-6",
     "duration": "60",
     "age": "12+",
     "difficulty": 2,
-    "type": "escape",
+    "type": "Escape",
     "image": "https://cf.geekdo-images.com/4xZMd9qYysx30n6HuBIS9Q__itemrep/img/1_SW3Cw5PAlpbdyRZZ7_tN6pc3k=/fit-in/246x300/filters:strip_icc()/pic3616771.png"
   },
   {
@@ -185,7 +185,7 @@
     "duration": "30",
     "age": "9+",
     "difficulty": 2,
-    "type": "familiar",
+    "type": "Familiar",
     "image": "https://cf.geekdo-images.com/7zH6Kt5ebWEixjDGmHweNA__itemrep/img/icEGhh-mOuq4HxHEmDBKWMeGBLc=/fit-in/246x300/filters:strip_icc()/pic2247258.png"
   },
   {
@@ -194,7 +194,7 @@
     "duration": "10",
     "age": "7+",
     "difficulty": 1,
-    "type": "familiar",
+    "type": "Familiar",
     "image": "https://www.baobablibros.es/imagenes/3070900/307090008463.GIF"
   },
   {
@@ -203,16 +203,16 @@
     "duration": "60",
     "age": "12+",
     "difficulty": 2,
-    "type": "estrategia",
+    "type": "Estrategia",
     "image": "https://cf.geekdo-images.com/Noz8-u1ba828WUv69pTXKg__itemrep/img/EwNAAUagulHIXWq2Jfj4EnyRO2k=/fit-in/246x300/filters:strip_icc()/pic3613444.jpg"
   },
   {
-    "name": "¡Aventureros al tren!",
+    "name": "¡Aventureros al Tren!",
     "players": "2-5",
     "duration": "60",
     "age": "8+",
     "difficulty": 2,
-    "type": "familiar",
+    "type": "Familiar",
     "image": "https://cf.geekdo-images.com/ZWJg0dCdrWHxVnc0eFXK8w__itemrep/img/iiTIuTtuneM3tbDCjALecsgyizA=/fit-in/246x300/filters:strip_icc()/pic38668.jpg"
   },
   {
@@ -221,16 +221,16 @@
     "duration": "120",
     "age": "12+",
     "difficulty": 3,
-    "type": "estrategia",
+    "type": "Estrategia",
     "image": "https://cf.geekdo-images.com/-hk8f8iGk_DyWyMrfiPBkg__itemrep/img/wo5yM8-yN8IbCzwMZsUak_m4U98=/fit-in/246x300/filters:strip_icc()/pic1116080.jpg"
   },
   {
-    "name": "High society",
+    "name": "High Society",
     "players": "3-5",
     "duration": "30",
     "age": "10+",
     "difficulty": 1,
-    "type": "familiar",
+    "type": "Familiar",
     "image": "https://cf.geekdo-images.com/_3wm5Ikl8NtF6oTQ5KT-1g__itemrep/img/VJCBFrAAWwfcTxp72zQCSGjZxjg=/fit-in/246x300/filters:strip_icc()/pic3894197.jpg"
   },
   {
@@ -239,16 +239,16 @@
     "duration": "90",
     "age": "10+",
     "difficulty": 4,
-    "type": "wargame",
+    "type": "Wargame",
     "image": "https://cf.geekdo-images.com/JUAUWaVUzeBgzirhZNmHHw__itemrep/img/sQgkl-_hydBVvQHAMLt2Zk_3dwI=/fit-in/246x300/filters:strip_icc()/pic4254509.jpg"
   },
   {
-    "name": "[ROL] Dungeons & Dragons Essentials Kit",
+    "name": "[Rol] Dungeons & Dragons Essentials Kit",
     "players": "2-6",
     "duration": "240",
     "age": "14+",
     "difficulty": 2,
-    "type": "rol",
+    "type": "Rol",
     "image": "https://images.ctfassets.net/swt2dsco9mfe/4PCIKluIlxy0zqjLkvp1nr/6f9babddd7e5309e69377a4eb364ef39/GAmtVF6tZQ5dGAZ.prod.es.png?w=540&fm=avif"
   },
   {
@@ -257,16 +257,16 @@
     "duration": "120",
     "age": "13+",
     "difficulty": 4,
-    "type": "estrategia",
+    "type": "Estrategia",
     "image": "https://cf.geekdo-images.com/kjCm4ZvPjIZxS-mYgSPy1g__itemrep/img/7AXozbOIxk5MDpn_RNlat4omAcc=/fit-in/246x300/filters:strip_icc()/pic7013651.jpg"
   },
   {
-    "name": "Catan Edición de viaje",
+    "name": "Catan Edición de Viaje",
     "players": "2-4",
     "duration": "75",
     "age": "10+",
     "difficulty": 2,
-    "type": "estrategia",
+    "type": "Estrategia",
     "image": "https://cf.geekdo-images.com/7kuQVAP4aVe-oNxkppnLVw__itemrep/img/486e_Ztjy7Kbg8jJNHW_lJd--q0=/fit-in/246x300/filters:strip_icc()/pic2574149.jpg"
   },
   {
@@ -275,61 +275,61 @@
     "duration": "45",
     "age": "8+",
     "difficulty": 0,
-    "type": "familiar",
+    "type": "Familiar",
     "image": "https://cf.geekdo-images.com/LG3jrhw_0UBPYY_Yjz4yRw__itemrep/img/NsryxinTPBThRKdQ_i2d8xRtpGo=/fit-in/246x300/filters:strip_icc()/pic6614295.jpg"
   },
   {
-    "name": "La maldición Héroes de Lorthar",
+    "name": "La Maldición Héroes de Lorthar",
     "players": "2-8",
     "duration": "60",
     "age": "6+",
     "difficulty": 1,
-    "type": "estrategia",
+    "type": "Estrategia",
     "image": "https://cf.geekdo-images.com/uDJbapgD7KxCBIGJ0qPRXg__itemrep/img/FnLQr7PCnYFsIXDYsX_X-EGKG6o=/fit-in/246x300/filters:strip_icc()/pic6341949.png"
   },
   {
-    "name": "Héroes y dados",
+    "name": "Héroes y Dados",
     "players": "2",
     "duration": "30",
     "age": "10+",
     "difficulty": 2,
-    "type": "estrategia",
+    "type": "Estrategia",
     "image": "https://cf.geekdo-images.com/5HWt3hbJUf8Q2OomVi4kUg__itemrep/img/_dL6czFoCdXI_vF8z2lxR2H5Skk=/fit-in/246x300/filters:strip_icc()/pic7035766.jpg"
   },
   {
-    "name": "Pequeñas grandes Galaxias",
+    "name": "Pequeñas Grandes Galaxias",
     "players": "1-5",
     "duration": "45",
     "age": "14+",
     "difficulty": 2,
-    "type": "estrategia",
+    "type": "Estrategia",
     "image": "https://cf.geekdo-images.com/c_87h8o0AOrfCO3hxMjjrA__itemrep/img/jK57vr9PKX0eGBDFimENStTboF4=/fit-in/246x300/filters:strip_icc()/pic2349732.jpg"
   },
   {
-    "name": "Rat a tat cat",
+    "name": "Rat a Tat Cat",
     "players": "2-6",
     "duration": "10",
     "age": "6+",
     "difficulty": 1,
-    "type": "familiar",
+    "type": "Familiar",
     "image": "https://cf.geekdo-images.com/4nQQ9GA-1JXcxwNd-tCR8w__itemrep/img/7bCQhZauNwAuekRT3xwbt2FCLlo=/fit-in/246x300/filters:strip_icc()/pic147435.jpg"
   },
   {
-    "name": "1000 millas",
+    "name": "1000 Millas",
     "players": "2-6",
     "duration": "45",
     "age": "8+",
     "difficulty": 1,
-    "type": "familiar",
+    "type": "Familiar",
     "image": "https://cf.geekdo-images.com/kzLZY_DHTh-hBcqXP34a5w__itemrep/img/03900Mg7512a9ig4XEp6epY7omw=/fit-in/246x300/filters:strip_icc()/pic4330533.jpg"
   },
   {
-    "name": "Avalon La resistencia",
+    "name": "Avalon La Resistencia",
     "players": "5-10",
     "duration": "30",
     "age": "13+",
     "difficulty": 2,
-    "type": "party",
+    "type": "Party",
     "image": "https://cf.geekdo-images.com/LPa6rsGcv8S0-OeNjCOAEQ__itemrep/img/KtGX_JFWNUXci7H5zs7GjS0QrQk=/fit-in/246x300/filters:strip_icc()/pic1398895.jpg"
   },
   {
@@ -338,7 +338,7 @@
     "duration": "150",
     "age": "12+",
     "difficulty": 3,
-    "type": "estrategia",
+    "type": "Estrategia",
     "image": "https://cf.geekdo-images.com/QFiIRd2kimaMqTyWsX0aUg__itemrep/img/YDEozo5DfKYdDp8xi2mAfoV2qWk=/fit-in/246x300/filters:strip_icc()/pic158548.jpg"
   },
   {
@@ -347,7 +347,7 @@
     "duration": "80",
     "age": "10+",
     "difficulty": 3,
-    "type": "estrategia",
+    "type": "Estrategia",
     "image": "https://cf.geekdo-images.com/-PuiCnbxlBzMSjnUegp9AQ__itemrep/img/4GWO2HLGlp7XoMEmVvtu6DNa5l4=/fit-in/246x300/filters:strip_icc()/pic5556025.jpg"
   },
   {
@@ -356,7 +356,7 @@
     "duration": "60",
     "age": "9+",
     "difficulty": 1,
-    "type": "familiar",
+    "type": "Familiar",
     "image": "https://cf.geekdo-images.com/g0SJ6NrsngIftpLPw8_IBw__itemrep/img/d-InCxo3BHmjgBeC0dtMfhwLGnk=/fit-in/246x300/filters:strip_icc()/pic1695017.jpg"
   },
   {
@@ -365,7 +365,7 @@
     "duration": "45",
     "age": "10+",
     "difficulty": 2,
-    "type": "familiar",
+    "type": "Familiar",
     "image": "https://cf.geekdo-images.com/GifbnAmsA4lfEcDkeaC9VA__itemrep/img/0wjmkvfHlWU5_l9dnaoDanV0s5U=/fit-in/246x300/filters:strip_icc()/pic4397932.png"
   },
   {
@@ -374,7 +374,7 @@
     "duration": "15",
     "age": "14+",
     "difficulty": 1,
-    "type": "party",
+    "type": "Party",
     "image": "https://cf.geekdo-images.com/F_KDEu0GjdClml8N7c8Imw__itemrep/img/e8zw8YQvQB8q8zfWkHQ48Ls920g=/fit-in/246x300/filters:strip_icc()/pic2582929.jpg"
   },
   {
@@ -383,16 +383,16 @@
     "duration": "90",
     "age": "10+",
     "difficulty": 4,
-    "type": "wargame",
+    "type": "Wargame",
     "image": "https://cf.geekdo-images.com/durhzLYyIypxg7CuVYe82Q__itemrep/img/2xVq5g204iR6RWNuapQ6oRjwHpY=/fit-in/246x300/filters:strip_icc()/pic4252654.jpg"
   },
   {
-    "name": "Arkham Horror El juego de cartas",
+    "name": "Arkham Horror El Juego de Cartas",
     "players": "1-2",
     "duration": "120",
     "age": "14+",
     "difficulty": 4,
-    "type": "cartas",
+    "type": "Juego de Cartas",
     "image": "https://cf.geekdo-images.com/B5F5ulz0UivNgrI9Ky0euA__itemrep/img/b7HiKWaGQKCuG-aU21-Izxt1ym4=/fit-in/246x300/filters:strip_icc()/pic3122349.jpg"
   },
   {
@@ -401,16 +401,16 @@
     "duration": "30",
     "age": "8+",
     "difficulty": 1,
-    "type": "party",
+    "type": "Party",
     "image": "https://cf.geekdo-images.com/J0PlHArkZDJ57H-brXW2Fw__itemrep/img/tsmN3sAHJ6trDaWNbq08BZXtq7g=/fit-in/246x300/filters:strip_icc()/pic6738336.jpg"
   },
   {
-    "name": "Say my name",
+    "name": "Say My Name",
     "players": "4-12",
     "duration": "90",
     "age": "8+",
     "difficulty": 1,
-    "type": "party",
+    "type": "Party",
     "image": "https://cf.geekdo-images.com/PK3SkxJg5wGbl51N9ahDxQ__itemrep/img/52rl-R7mJBhGsrlgOsimI2qDzFw=/fit-in/246x300/filters:strip_icc()/pic8200447.jpg"
   },
   {
@@ -419,7 +419,7 @@
     "duration": "60",
     "age": "6+",
     "difficulty": 0,
-    "type": "juego de cartas",
+    "type": "Juego de Cartas",
     "image": "https://cf.geekdo-images.com/mxYdG-dBhl-5X9jG75QDTQ__itemrep/img/NplRPpB43oIjK9325gjFynqWOws=/fit-in/246x300/filters:strip_icc()/pic6502110.jpg"
   },
   {
@@ -428,16 +428,16 @@
     "duration": "25",
     "age": "8+",
     "difficulty": 2,
-    "type": "juego de cartas",
+    "type": "Juego de Cartas",
     "image": "https://cf.geekdo-images.com/XEYat8WNuDkWB94JEqliVQ__itemrep/img/Zs1VpdVoadUbgZTB-qJIpOGCvM8=/fit-in/246x300/filters:strip_icc()/pic8370880.png"
   },
   {
-    "name": "Viaje al centro de la tierra",
+    "name": "Viaje al Centro de la Tierra",
     "players": "2-4",
     "duration": "45",
     "age": "8+",
     "difficulty": 0,
-    "type": "aventura",
+    "type": "Aventura",
     "image": "https://cf.geekdo-images.com/S9lUYDrILAyTtScTdIKGUg__itemrep/img/Gg65P9jDOPx-Z9rEw2ILSLVZJxA=/fit-in/246x300/filters:strip_icc()/pic1442835.jpg"
   },
   {
@@ -446,7 +446,7 @@
     "duration": "25",
     "age": "10+",
     "difficulty": 2,
-    "type": "familiar",
+    "type": "Familiar",
     "image": "https://cf.geekdo-images.com/lLKWqJzEFSlOU8Cs5G54dg__itemrep/img/K2iqJ3RfAhuEuDD1NtnbGPs4Esk=/fit-in/246x300/filters:strip_icc()/pic4059108.jpg"
   },
   {
@@ -459,12 +459,12 @@
     "image": ""
   },
   {
-    "name": "Respuestas abiertas",
+    "name": "Respuestas Abiertas",
     "players": "2-4",
     "duration": "15",
     "age": "6+",
     "difficulty": 1,
-    "type": "familiar",
+    "type": "Familiar",
     "image": "https://cf.geekdo-images.com/eXwFMfsSOUNMDy9itigbPw__itemrep/img/Yxco4YkIxXcRaNDelv6ZTsbMdTc=/fit-in/246x300/filters:strip_icc()/pic5854467.jpg"
   },
   {
@@ -473,25 +473,25 @@
     "duration": "30",
     "age": "8+",
     "difficulty": 1,
-    "type": "familiar",
+    "type": "Familiar",
     "image": "https://cf.geekdo-images.com/owyKXaa5SPB2HG9F_MueNQ__itemrep/img/5f1U8qSQZu947oE7YDEtYGCDYAA=/fit-in/246x300/filters:strip_icc()/pic3169827.png"
   },
   {
-    "name": "Cereal killer",
+    "name": "Cereal Killer",
     "players": "2",
     "duration": "15",
     "age": "14+",
     "difficulty": 0,
-    "type": "aventura",
+    "type": "Aventura",
     "image": "https://cf.geekdo-images.com/NPNNp8y1GJCwYTcbs2X9-g__itemrep/img/On1YntMXgKPT58KzN5tpPo9nMUU=/fit-in/246x300/filters:strip_icc()/pic7509380.jpg"
   },
   {
-    "name": "Día de playa",
+    "name": "Día de Playa",
     "players": "1-4",
     "duration": "20",
     "age": "8+",
     "difficulty": 1,
-    "type": "juego de cartas",
+    "type": "Juego de Cartas",
     "image": "https://cf.geekdo-images.com/DvD3eIlYAyUgZ4P7gjLR-g__itemrep/img/uuheD1H2lBKfVe2OYgwtnUSbpM4=/fit-in/246x300/filters:strip_icc()/pic7030273.jpg"
   },
   {
@@ -500,7 +500,7 @@
     "duration": "30",
     "age": "10+",
     "difficulty": 0,
-    "type": "aventura",
+    "type": "Aventura",
     "image": "https://cf.geekdo-images.com/maHIK98TIXyVf-A5mcLxLA__itemrep/img/qn5tmKIrUqlS_Wl-coPvmas7fJc=/fit-in/246x300/filters:strip_icc()/pic7277085.jpg"
   },
   {
@@ -509,7 +509,7 @@
     "duration": "45",
     "age": "12+",
     "difficulty": 2,
-    "type": "familiar",
+    "type": "Familiar",
     "image": "https://cf.geekdo-images.com/8SADtu_4zBH_UJrCo935Iw__itemrep/img/Eg40fiS7D61bVhjp5qCnvEtfKfc=/fit-in/246x300/filters:strip_icc()/pic6348964.jpg"
   },
   {
@@ -518,16 +518,16 @@
     "duration": "15",
     "age": "6+",
     "difficulty": 0,
-    "type": "juego de cartas",
+    "type": "Juego de Cartas",
     "image": "https://cf.geekdo-images.com/6o55k-WbvZZlGI6WtJClBQ__itemrep/img/_CDtPQ9u5aHHKb4WZEteKgCf6Vk=/fit-in/246x300/filters:strip_icc()/pic7001379.jpg"
   },
   {
-    "name": "Océanos de papel",
+    "name": "Océanos de Papel",
     "players": "2-4",
     "duration": "45",
     "age": "8+",
     "difficulty": 1,
-    "type": "familiar",
+    "type": "Familiar",
     "image": "https://cf.geekdo-images.com/CIh_rXKoRw9z8K0PJxT8nQ__itemrep/img/GnrjU-bLmrdUTF_H31vBMTd-uxA=/fit-in/246x300/filters:strip_icc()/pic6973911.jpg"
   },
   {
@@ -537,8 +537,8 @@
     "age": "8+",
     "difficulty": 1,
     "type": [
-      "familiar",
-      "party"
+      "Familiar",
+      "Party"
     ],
     "image": "https://cf.geekdo-images.com/0vJwP6NGa7GHPZKC3gplUw__itemrep/img/aJcXGhYr8XxyKEK6EqbG0bePrOk=/fit-in/246x300/filters:strip_icc()/pic3989824.jpg"
   },
@@ -548,547 +548,577 @@
     "duration": "20",
     "age": "10+",
     "difficulty": 1,
-    "type": "familiar",
+    "type": "Familiar",
     "image": "https://cf.geekdo-images.com/T1ltXwapFUtghS9A7_tf4g__itemrep/img/SJxpAXjBIPEj9m6hHZYeTbz9wzc=/fit-in/246x300/filters:strip_icc()/pic1401448.jpg"
   },
   {
-    "name": "El lavarropas",
-    "players": "",
-    "duration": "",
-    "age": "",
-    "difficulty": 0,
-    "type": "",
-    "image": ""
+    "name": "El Lavarropas",
+    "players": "2-10",
+    "duration": "20",
+    "age": "6+",
+    "difficulty": 1,
+    "type": "Familiar",
+    "image": "https://cf.geekdo-images.com/XxDn9G8qsY-80cswoWVXZQ__itemrep/img/YcB7MvQLyh_Z9zFfb3-hpemy3WI=/fit-in/246x300/filters:strip_icc()/pic6420123.jpg"
   },
   {
     "name": "Recreo Arcano",
-    "players": "",
-    "duration": "",
-    "age": "",
-    "difficulty": 0,
-    "type": "",
-    "image": ""
+    "players": "2-4",
+    "duration": "30",
+    "age": "10+",
+    "difficulty": 2,
+    "type": "Familiar",
+    "image": "https://cf.geekdo-images.com/5ObosXJbH4_Ip6PUtuq1lA__itemrep/img/VTnlboGD6zfcUzAlNCZjP7HX2uY=/fit-in/246x300/filters:strip_icc()/pic7509296.jpg"
   },
   {
-    "name": "Sushi go",
-    "players": "",
-    "duration": "",
-    "age": "",
-    "difficulty": 0,
-    "type": "",
-    "image": ""
+    "name": "Sushi Go",
+    "players": "2-5",
+    "duration": "15",
+    "age": "8+",
+    "difficulty": 1,
+    "type": "Familiar",
+    "image": "https://cf.geekdo-images.com/Fn3PSPZVxa3YurlorITQ1Q__itemrep/img/XEFhq_xryUgTUJpNGF4tQH_5WRs=/fit-in/246x300/filters:strip_icc()/pic1900075.jpg"
   },
   {
-    "name": "La tripulación",
-    "players": "",
-    "duration": "",
-    "age": "",
-    "difficulty": 0,
-    "type": "",
-    "image": ""
+    "name": "La Tripulación",
+    "players": "2-5",
+    "duration": "20",
+    "age": "10+",
+    "difficulty": 2,
+    "type": "Familiar",
+    "image": "https://cf.geekdo-images.com/98LnQShydr11OBKS46xY-Q__itemrep/img/etVRTXdF6IDsnGKQe77FRFP4H7M=/fit-in/246x300/filters:strip_icc()/pic5687013.jpg"
   },
   {
-    "name": "El valle secreto",
-    "players": "",
-    "duration": "",
-    "age": "",
-    "difficulty": 0,
-    "type": "",
-    "image": ""
+    "name": "El Valle Secreto",
+    "players": "2-4",
+    "duration": "40",
+    "age": "10+",
+    "difficulty": 2,
+    "type": "Familiar",
+    "image": "https://cf.geekdo-images.com/Y5z5Pje6-00fvyjm2c29fA__itemrep/img/qUNB2kl5uxTZELc3Sjpz2JYhbNc=/fit-in/246x300/filters:strip_icc()/pic5367585.jpg"
   },
   {
-    "name": "Marea alta",
-    "players": "",
-    "duration": "",
-    "age": "",
-    "difficulty": 0,
-    "type": "",
-    "image": ""
+    "name": "Marea Alta",
+    "players": "3-5",
+    "duration": "30",
+    "age": "10+",
+    "difficulty": 2,
+    "type": "Familiar",
+    "image": "https://cf.geekdo-images.com/lg2cZmqHCdBWuYMFqnYHoA__itemrep/img/BS3qI3ROmWvju6D1AfSthSDFco4=/fit-in/246x300/filters:strip_icc()/pic725351.jpg"
   },
   {
     "name": "Las Mansiones de la Locura",
-    "players": "",
-    "duration": "",
-    "age": "",
-    "difficulty": 0,
-    "type": "misterio",
-    "image": ""
+    "players": "2-5",
+    "duration": "180",
+    "age": "13+",
+    "difficulty": 3,
+    "type": "Temático",
+    "image": "https://cf.geekdo-images.com/JtjGOgkaIxnLUeoV56cWFQ__itemrep/img/qzTngxEVy61D4H90k6DiLWM9cV4=/fit-in/246x300/filters:strip_icc()/pic814011.jpg"
   },
   {
-    "name": "Montañas de la locura",
-    "players": "",
-    "duration": "",
-    "age": "",
-    "difficulty": 0,
-    "type": "aventura",
-    "image": ""
+    "name": "Montañas de la Locura",
+    "players": "3-5",
+    "duration": "90",
+    "age": "12+",
+    "difficulty": 2,
+    "type": [
+      "Aventura",
+      "Party"
+    ],
+    "image": "https://cf.geekdo-images.com/ggsBj1DflW234DP6E5uwqg__itemrep/img/rD9T-4vrCxC9eI9oC86au2gGreE=/fit-in/246x300/filters:strip_icc()/pic3616674.jpg"
   },
   {
     "name": "Sagrada",
-    "players": "",
-    "duration": "",
-    "age": "",
-    "difficulty": 0,
-    "type": "",
-    "image": ""
+    "players": "1-4",
+    "duration": "45",
+    "age": "14+",
+    "difficulty": 2,
+    "type": [
+      "Abstracto",
+      "Familiar"
+    ],
+    "image": "https://cf.geekdo-images.com/PZt3EAAGV3dFIVuwMR0AEw__itemrep/img/fLGFtsAiZgj3VwTDvgCn2yBIDYw=/fit-in/246x300/filters:strip_icc()/pic3525224.jpg"
   },
   {
     "name": "The castles of Burgundy",
-    "players": "",
-    "duration": "",
-    "age": "",
-    "difficulty": 0,
-    "type": "estrategia",
-    "image": ""
+    "players": "1-4",
+    "duration": "120",
+    "age": "12+",
+    "difficulty": 3,
+    "type": "Estrategia",
+    "image": "https://cf.geekdo-images.com/VrNrk7XVU1hN0j1ZFhjcjw__itemrep/img/W-5lYNeqk2CTuaPFs3yvfPL3J14=/fit-in/246x300/filters:strip_icc()/pic4934938.jpg"
   },
   {
-    "name": "The Lord of te rings The card game",
-    "players": "",
-    "duration": "",
-    "age": "",
-    "difficulty": 0,
-    "type": "cartas",
-    "image": ""
+    "name": "The Lord of the Rings The Card Game",
+    "players": "1-2",
+    "duration": "60",
+    "age": "13+",
+    "difficulty": 3,
+    "type": [
+      "Juego de Cartas",
+      "Aventura"
+    ],
+    "image": "https://cf.geekdo-images.com/ZmXi5BbtoWl58ZnKcUy1vw__itemrep/img/pbBXQjhJ3fJVgcsI4mdT0qdHULI=/fit-in/246x300/filters:strip_icc()/pic906495.jpg"
   },
   {
-    "name": "Great western trail",
-    "players": "",
-    "duration": "",
-    "age": "",
-    "difficulty": 0,
-    "type": "cartas",
-    "image": ""
-  },
-  {
-    "name": "Great western trail",
-    "players": "",
-    "duration": "",
-    "age": "",
-    "difficulty": 0,
-    "type": "estrategia",
-    "image": ""
+    "name": "Great Western Trail",
+    "players": "2-4",
+    "duration": "150",
+    "age": "12+",
+    "difficulty": 4,
+    "type": "Estrategia",
+    "image": "https://cf.geekdo-images.com/u1l0gH7sb_vnvDvoO_QHqA__itemrep/img/s3qAGoXVCK6gA8nsHDICfZ4Jc1c=/fit-in/246x300/filters:strip_icc()/pic4887376.jpg"
   },
   {
     "name": "Wildlands",
-    "players": "",
-    "duration": "",
-    "age": "",
-    "difficulty": 0,
-    "type": "",
-    "image": ""
+    "players": "2-4",
+    "duration": "60",
+    "age": "14+",
+    "difficulty": 2,
+    "type": "Estrategia",
+    "image": "https://cf.geekdo-images.com/WX004-Z0fA065Fk7QDcAsA__itemrep/img/gbWn6Rv5dH-Srnmt3piOK957Rs4=/fit-in/246x300/filters:strip_icc()/pic3983952.jpg"
   },
   {
-    "name": "King of tokyo",
-    "players": "",
-    "duration": "",
-    "age": "",
-    "difficulty": 0,
-    "type": "",
-    "image": ""
+    "name": "King of Tokyo",
+    "players": "2-6",
+    "duration": "30",
+    "age": "8+",
+    "difficulty": 2,
+    "type": "Familiar",
+    "image": "https://cf.geekdo-images.com/m_RzXpHURC0_xLkvRSR_sw__itemrep/img/HVllMOifrnS8P1Ygzj7Teo_rwA4=/fit-in/246x300/filters:strip_icc()/pic3043734.jpg"
   },
   {
-    "name": "Colt express",
-    "players": "",
-    "duration": "",
-    "age": "",
-    "difficulty": 0,
-    "type": "",
-    "image": ""
+    "name": "Colt Express",
+    "players": "2-6",
+    "duration": "40",
+    "age": "10+",
+    "difficulty": 2,
+    "type": "Familiar",
+    "image": "https://cf.geekdo-images.com/2HKX0QANk_DY7CIVK5O5fQ__itemrep/img/TvYm-n4tYlxtLfE2iU-aBDeRC5I=/fit-in/246x300/filters:strip_icc()/pic2869710.jpg"
   },
   {
-    "name": "Alubary El aroma del té",
-    "players": "",
-    "duration": "",
-    "age": "",
-    "difficulty": 0,
-    "type": "",
-    "image": ""
+    "name": "Alubari El Aroma del Té",
+    "players": "1-5",
+    "duration": "120",
+    "age": "10+",
+    "difficulty": 3,
+    "type": "Estrategia",
+    "image": "https://cf.geekdo-images.com/_1-7QfNv7_22GTEEo4bEEg__itemrep/img/Edp9fe4eT5UlPjmXh6-VJ6i1rAk=/fit-in/246x300/filters:strip_icc()/pic4949326.jpg"
   },
   {
     "name": "Cobble and Fog",
-    "players": "",
-    "duration": "",
-    "age": "",
-    "difficulty": 0,
-    "type": "",
-    "image": ""
+    "players": "2-4",
+    "duration": "40",
+    "age": "9+",
+    "difficulty": 2,
+    "type": "Estrategia",
+    "image": "https://cf.geekdo-images.com/iyIO6udRfIn0xM1rIxyO2g__itemrep/img/uHsox551yUEJbKtWZZmsUK2FzXg=/fit-in/246x300/filters:strip_icc()/pic5056685.jpg"
   },
   {
-    "name": "El fantasma",
-    "players": "",
-    "duration": "",
-    "age": "",
+    "name": "El Fantasma",
+    "players": "2-4",
+    "duration": "30",
+    "age": "10+",
     "difficulty": 0,
-    "type": "",
-    "image": ""
+    "type": "Temático",
+    "image": "https://cf.geekdo-images.com/hmjB9dW8GHi2P2bAuANCqw__itemrep/img/zQt59YTvzpjtIvDhIRbUynWUzQI=/fit-in/246x300/filters:strip_icc()/pic6570810.png"
   },
   {
-    "name": "Conejos en el huerto",
-    "players": "",
-    "duration": "",
-    "age": "",
-    "difficulty": 0,
-    "type": "",
-    "image": ""
+    "name": "Conejos en el Huerto",
+    "players": "2-4",
+    "duration": "40",
+    "age": "8+",
+    "difficulty": 2,
+    "type": "Familiar",
+    "image": "https://cf.geekdo-images.com/nIPuJX-HqqL6k_FN6FgCTQ__itemrep/img/nUC7ox2lO44lDT9XFciGThz2KsY=/fit-in/246x300/filters:strip_icc()/pic3303288.jpg"
   },
   {
-    "name": "Flick'em up",
-    "players": "",
-    "duration": "",
-    "age": "",
-    "difficulty": 0,
-    "type": "",
-    "image": ""
+    "name": "Flick 'em Up",
+    "players": "2-10",
+    "duration": "45",
+    "age": "7+",
+    "difficulty": 1,
+    "type": [
+      "Familiar",
+      "Temático"
+    ],
+    "image": "https://cf.geekdo-images.com/uTrqB91Kzvqtb4Ophk1BPw__itemrep/img/B9H5i9zhQ4FkWq1M8bGTm5Qo4F8=/fit-in/246x300/filters:strip_icc()/pic5095159.jpg"
   },
   {
     "name": "Iki",
-    "players": "",
-    "duration": "",
-    "age": "",
-    "difficulty": 0,
-    "type": "",
-    "image": ""
+    "players": "2-4",
+    "duration": "90",
+    "age": "14+",
+    "difficulty": 3,
+    "type": "Estrategia",
+    "image": "https://cf.geekdo-images.com/ypE6HrTY1Xvpt1XCpKlMBw__itemrep/img/78YkxWh0kuforNDF-2wTJTlKaZY=/fit-in/246x300/filters:strip_icc()/pic5960068.png"
   },
   {
     "name": "Paleo",
-    "players": "",
-    "duration": "",
-    "age": "",
-    "difficulty": 0,
-    "type": "",
-    "image": ""
+    "players": "2-4",
+    "duration": "60",
+    "age": "10+",
+    "difficulty": 3,
+    "type": [
+      "Estrategia",
+      "Temático"
+    ],
+    "image": "https://cf.geekdo-images.com/85t1wkwgvh3d2mmjsRcDrw__itemrep/img/5Wx2IlXzKh8HmBD-_5Rm2b1YjO4=/fit-in/246x300/filters:strip_icc()/pic6039256.jpg"
   },
   {
     "name": "Terraforming Mars",
-    "players": "",
-    "duration": "",
-    "age": "",
-    "difficulty": 0,
-    "type": "estrategia",
-    "image": ""
+    "players": "1-5",
+    "duration": "120",
+    "age": "12+",
+    "difficulty": 3,
+    "type": "Estrategia",
+    "image": "https://cf.geekdo-images.com/wg9oOLcsKvDesSUdZQ4rxw__itemrep/img/IwUOQfhP5c0KcRJBY4X_hi3LpsY=/fit-in/246x300/filters:strip_icc()/pic3536616.jpg"
   },
   {
     "name": "Brass Birmingham",
-    "players": "",
-    "duration": "",
-    "age": "",
-    "difficulty": 0,
-    "type": "estrategia",
-    "image": ""
+    "players": "2-4",
+    "duration": "120",
+    "age": "14+",
+    "difficulty": 4,
+    "type": "Estrategia",
+    "image": "https://cf.geekdo-images.com/x3zxjr-Vw5iU4yDPg70Jgw__itemrep/img/giNUMut4HAl-zWyQkGG0YchmuLI=/fit-in/246x300/filters:strip_icc()/pic3490053.jpg"
   },
   {
     "name": "Damas",
     "players": "2",
-    "duration": "",
-    "age": "",
-    "difficulty": 0,
-    "type": "abstracto",
-    "image": ""
+    "duration": "30",
+    "age": "6+",
+    "difficulty": 2,
+    "type": "Abstracto",
+    "image": "https://cf.geekdo-images.com/S4IBcWYhlbn51_5f0EIR4g__itemrep/img/7Kun3imUQV74YfmN51fEg-aQTbA=/fit-in/246x300/filters:strip_icc()/pic113720.jpg"
   },
   {
     "name": "Under Falling Skies",
-    "players": "",
-    "duration": "",
-    "age": "",
-    "difficulty": 0,
-    "type": "",
-    "image": ""
+    "players": "1",
+    "duration": "40",
+    "age": "12+",
+    "difficulty": 2,
+    "type": "Estrategia",
+    "image": "https://cf.geekdo-images.com/ecO5eAd3RkctQ0-Tbqv37Q__itemrep/img/Y_6XiSED1VO6ZskJSHdIjKuWe84=/fit-in/246x300/filters:strip_icc()/pic5428723.jpg"
   },
   {
     "name": "Robin Hood",
-    "players": "",
-    "duration": "",
-    "age": "",
-    "difficulty": 0,
-    "type": "aventura",
-    "image": ""
+    "players": "1-6",
+    "duration": "300",
+    "age": "14+",
+    "difficulty": 2,
+    "type": "Aventura",
+    "image": "https://cf.geekdo-images.com/s3HUK92gkOQrIsXtz_kW4w__itemrep/img/IF81cHN57rqwCnbi5becjkBYUyM=/fit-in/246x300/filters:strip_icc()/pic7751290.jpg"
   },
   {
-    "name": "Lost ruins of Arnak",
-    "players": "",
-    "duration": "",
-    "age": "",
-    "difficulty": 0,
-    "type": "aventura",
-    "image": ""
+    "name": "Lost Ruins of Arnak",
+    "players": "1-4",
+    "duration": "120",
+    "age": "12+",
+    "difficulty": 3,
+    "type": [
+      "Aventura",
+      "Estrategia"
+    ],
+    "image": "https://cf.geekdo-images.com/6GqH14TJJhza86BX5HCLEQ__itemrep/img/ETni1QwddAVjM-xLhciF0UM0FxQ=/fit-in/246x300/filters:strip_icc()/pic5674958.jpg"
   },
   {
-    "name": "Twilight Struggle La guerra fría, 1945-1989",
+    "name": "Twilight Struggle La Guerra Fría (1945-1989)",
     "players": "2",
-    "duration": "",
-    "age": "",
-    "difficulty": 0,
-    "type": "estrategia",
-    "image": ""
+    "duration": "180",
+    "age": "13+",
+    "difficulty": 4,
+    "type": [
+      "Estrategia",
+      "Wargame"
+    ],
+    "image": "https://cf.geekdo-images.com/pNCiUUphnoeWOYfsWq0kng__itemrep/img/WMsXl-Wa8q2n9_lJH536Mhi2COc=/fit-in/246x300/filters:strip_icc()/pic3530661.jpg"
   },
   {
-    "name": "Village rails",
-    "players": "",
-    "duration": "",
-    "age": "",
-    "difficulty": 0,
-    "type": "",
-    "image": ""
+    "name": "Village Rails",
+    "players": "2-4",
+    "duration": "45",
+    "age": "24+",
+    "difficulty": 2,
+    "type": [
+      "Familiar",
+      "Estrategia"
+    ],
+    "image": "https://cf.geekdo-images.com/88ZX_q3-bAKpyKYrffyBYQ__itemrep/img/wC_kxc65i1DJH1sp_jqqzI_pVH0=/fit-in/246x300/filters:strip_icc()/pic6728813.jpg"
   },
   {
     "name": "Marco Polo",
-    "players": "",
-    "duration": "",
-    "age": "",
-    "difficulty": 0,
-    "type": "estrategia",
-    "image": ""
+    "players": "2-4",
+    "duration": "60",
+    "age": "8+",
+    "difficulty": 2,
+    "type": "Aventura",
+    "image": "https://cf.geekdo-images.com/kphUeoUqMXHrVGbSgFEk0w__itemrep/img/PhkK5gEr7mE2nlpZaQ7yoKaVfo0=/fit-in/246x300/filters:strip_icc()/pic20540.jpg"
   },
   {
     "name": "Kingdomino",
-    "players": "",
-    "duration": "",
-    "age": "",
-    "difficulty": 0,
-    "type": "",
-    "image": ""
+    "players": "2-4",
+    "duration": "25",
+    "age": "8+",
+    "difficulty": 1,
+    "type": "Familiar",
+    "image": "https://cf.geekdo-images.com/c0m3gwZTcfKoLI63ASio8g__itemrep/img/HBQW09mf1nlYLGF4jmB9jfm4_EI=/fit-in/246x300/filters:strip_icc()/pic8443569.png"
   },
   {
-    "name": "Wildlands The adventuring party",
-    "players": "",
-    "duration": "",
-    "age": "",
-    "difficulty": 0,
-    "type": "",
-    "image": ""
+    "name": "Wildlands The Adventuring Party",
+    "players": "2-4",
+    "duration": "60",
+    "age": "14+",
+    "difficulty": 2,
+    "type": "Estrategia",
+    "image": "https://cf.geekdo-images.com/48LQsMLyUaLdSQPR1DSJBg__itemrep/img/b_j6sx3MVTfWeDY72wwb3wVVgf8=/fit-in/246x300/filters:strip_icc()/pic4410466.jpg"
   },
   {
     "name": "Trovehamburgo",
-    "players": "",
-    "duration": "",
-    "age": "",
-    "difficulty": 0,
-    "type": "",
-    "image": ""
+    "players": "2-4",
+    "duration": "30",
+    "age": "12+",
+    "difficulty": 1,
+    "type": "Juego de Cartas",
+    "image": "https://cf.geekdo-images.com/U-DojveDZS4JgBOYhdILLw__itemrep/img/o_ObiDrhPBbl07HTBKsOf5E1e9s=/fit-in/246x300/filters:strip_icc()/pic7759398.jpg"
   },
   {
-    "name": "Mazescape labyrinthos",
-    "players": "",
-    "duration": "",
-    "age": "",
-    "difficulty": 0,
-    "type": "puzzle",
-    "image": ""
+    "name": "Mazescape Labyrinthos",
+    "players": "1",
+    "duration": "90",
+    "age": "8+",
+    "difficulty": 1,
+    "type": "Temático",
+    "image": "https://cf.geekdo-images.com/JSybpm20ems7B6o78N-6ww__itemrep/img/_k8Dpiz_eylwtVAzTOQVyIayipY=/fit-in/246x300/filters:strip_icc()/pic5992696.jpg"
   },
   {
     "name": "My city",
-    "players": "",
-    "duration": "",
-    "age": "",
-    "difficulty": 0,
-    "type": "",
-    "image": ""
+    "players": "2-4",
+    "duration": "30",
+    "age": "10+",
+    "difficulty": 2,
+    "type": [
+      "Familiar",
+      "Estrategia"
+    ],
+    "image": "https://cf.geekdo-images.com/fz4aYmycg9baQlm_DzwyKA__itemrep/img/9KNmnszInjHRVLIT-ZTv7Miex7Y=/fit-in/246x300/filters:strip_icc()/pic7443423.jpg"
   },
   {
     "name": "Jenga",
-    "players": "",
-    "duration": "",
-    "age": "",
-    "difficulty": 0,
-    "type": "destreza",
-    "image": ""
+    "players": "1-8",
+    "duration": "20",
+    "age": "6+",
+    "difficulty": 1,
+    "type": "Party",
+    "image": "https://cf.geekdo-images.com/YH5C06snaoJtDqKjwMROPw__itemrep/img/QKKA_oP2hMaXjTo2DpghOy4ylPw=/fit-in/246x300/filters:strip_icc()/pic5140451.jpg"
   },
   {
     "name": "Ajedrez",
     "players": "2",
-    "duration": "",
-    "age": "",
-    "difficulty": 0,
-    "type": "abstracto",
-    "image": ""
+    "duration": "90",
+    "age": "6+",
+    "difficulty": 4,
+    "type": [
+      "Abstracto",
+      "Estrategia"
+    ],
+    "image": "https://cf.geekdo-images.com/0-DjGBOko6RV8zg5ejhYIg__itemrep/img/zEsADW8KxEk59cHW7ZTje9jhBj4=/fit-in/246x300/filters:strip_icc()/pic260745.jpg"
   },
   {
     "name": "Lunes",
-    "players": "",
-    "duration": "",
-    "age": "",
-    "difficulty": 0,
-    "type": "",
-    "image": ""
+    "players": "1-2",
+    "duration": "10",
+    "age": "13+",
+    "difficulty": 2,
+    "type": "Aventura",
+    "image": "https://cf.geekdo-images.com/Z4s6kjGbRGwGEEoPWHPowg__itemrep/img/ch8ZPRmBVaLDT4LlZdbWw7s8vWQ=/fit-in/246x300/filters:strip_icc()/pic7851188.png"
   },
   {
-    "name": "Líderes de euphoria",
-    "players": "",
-    "duration": "",
-    "age": "",
-    "difficulty": 0,
-    "type": "",
-    "image": ""
+    "name": "Líderes de Euphoria",
+    "players": "4-8",
+    "duration": "35",
+    "age": "12+",
+    "difficulty": 2,
+    "type": "Juego de Cartas",
+    "image": "https://cf.geekdo-images.com/yusB0cikeEYluWokFovb3Q__itemrep/img/k0cokyXYlZwbaliZlwszCED3nFo=/fit-in/246x300/filters:strip_icc()/pic3159845.png"
   },
   {
     "name": "Derby",
-    "players": "",
-    "duration": "",
-    "age": "",
-    "difficulty": 0,
-    "type": "",
-    "image": ""
+    "players": "3-5",
+    "duration": "60",
+    "age": "6+",
+    "difficulty": 2,
+    "type": "Temático",
+    "image": "https://cf.geekdo-images.com/afrMY68ATgYSKN2Vr9oSBw__itemrep/img/jabFIW39HTDHk_knRvTKIflFK8M=/fit-in/246x300/filters:strip_icc()/pic630254.jpg"
   },
   {
     "name": "Pepinillo",
-    "players": "",
-    "duration": "",
-    "age": "",
-    "difficulty": 0,
-    "type": "",
-    "image": ""
+    "players": "2-30",
+    "duration": "15",
+    "age": "8+",
+    "difficulty": 1,
+    "type": [
+      "Juego de Cartas",
+      "Party"
+    ],
+    "image": "https://cf.geekdo-images.com/xzVZQYtKsKpGmQxxYPmdEg__itemrep/img/nDcBGd7AJOcZXufh6r0wYr6Z4fE=/fit-in/246x300/filters:strip_icc()/pic6336729.png"
   },
   {
-    "name": "The Lord of te rings The card game: Conflict at carrocks",
-    "players": "",
-    "duration": "",
-    "age": "",
-    "difficulty": 0,
-    "type": "cartas",
-    "image": ""
+    "name": "The Lord of the Rings The Card Game Conflict at Carrock",
+    "players": "1-2",
+    "duration": "60",
+    "age": "13+",
+    "difficulty": 3,
+    "type": "Juego de Cartas",
+    "image": "https://cf.geekdo-images.com/S1ka8xVRL1DB_z_cDJ4wRA__itemrep/img/2daeQdrfcZ3tmhuye9Xk7Srx_Mc=/fit-in/246x300/filters:strip_icc()/pic955244.jpg"
   },
   {
-    "name": "The Lord of te rings The card game: A journey to Rhosgobel",
-    "players": "",
-    "duration": "",
-    "age": "",
-    "difficulty": 0,
-    "type": "cartas",
-    "image": ""
+    "name": "The Lord of the Rings The Card Game A journey to Rhosgobel",
+    "players": "1-2",
+    "duration": "60",
+    "age": "13+",
+    "difficulty": 3,
+    "type": "Juego de Cartas",
+    "image": "https://cf.geekdo-images.com/y2E58Cn_6Bw3A_f-22PSGA__itemrep/img/LV8EW4PQfX0GETVed6K-GxhouBo=/fit-in/246x300/filters:strip_icc()/pic989021.jpg"
   },
   {
     "name": "Shinobi",
-    "players": "",
-    "duration": "",
-    "age": "",
-    "difficulty": 0,
-    "type": "",
-    "image": ""
+    "players": "4-6",
+    "duration": "20",
+    "age": "10+",
+    "difficulty": 1,
+    "type": "Juego de Cartas",
+    "image": "https://cf.geekdo-images.com/S5Nh85o5y8vyQqhgAXP12w__itemrep/img/LeAYzraB17mNwwJuNI8fbTWLN7Y=/fit-in/246x300/filters:strip_icc()/pic3756339.jpg"
   },
   {
     "name": "Dungeon Dealer",
-    "players": "",
-    "duration": "",
-    "age": "",
+    "players": "1-12",
+    "duration": "360",
+    "age": "8+",
     "difficulty": 0,
-    "type": "",
-    "image": ""
+    "type": "Aventura",
+    "image": "https://cf.geekdo-images.com/DuEw7FZpo6q9wBDzDifqxw__itemrep/img/oJL_mWPEeQtamW9Xs4iXBDud4m0=/fit-in/246x300/filters:strip_icc()/pic3057995.jpg"
   },
   {
-    "name": "Los pilares de la Tierra",
-    "players": "",
-    "duration": "",
-    "age": "",
-    "difficulty": 0,
-    "type": "estrategia",
-    "image": ""
+    "name": "Los Pilares de la Tierra",
+    "players": "2-4",
+    "duration": "120",
+    "age": "12+",
+    "difficulty": 3,
+    "type": "Estrategia",
+    "image": "https://cf.geekdo-images.com/J897fuu-nl83_o90uOakVQ__itemrep/img/FBQnA2CF2RD4SITS1qJgvjVEArw=/fit-in/246x300/filters:strip_icc()/pic3691155.jpg"
   },
   {
     "name": "Kobayakawa",
-    "players": "",
-    "duration": "",
-    "age": "",
-    "difficulty": 0,
-    "type": "",
-    "image": ""
+    "players": "3-6",
+    "duration": "15",
+    "age": "9+",
+    "difficulty": 1,
+    "type": [
+      "Familiar",
+      "Party"
+    ],
+    "image": "https://cf.geekdo-images.com/bmkZSLcuR4G0tPYI9pob-g__itemrep/img/gGQRxJQYD3e9fM2VxPwlF4z1P7s=/fit-in/246x300/filters:strip_icc()/pic2299549.jpg"
   },
   {
-    "name": "What´s up",
-    "players": "",
-    "duration": "",
-    "age": "",
-    "difficulty": 0,
-    "type": "",
-    "image": ""
+    "name": "What's Up",
+    "players": "2-4",
+    "duration": "20",
+    "age": "8+",
+    "difficulty": 1,
+    "type": "Familiar",
+    "image": "https://cf.geekdo-images.com/lpKc9CfkSyF5qyNfWG8XrA__itemrep/img/sl8kv5fV78EC3Z38i72Ks3kEkWc=/fit-in/246x300/filters:strip_icc()/pic3042240.jpg"
   },
   {
     "name": "Coup Urbis",
-    "players": "",
-    "duration": "",
-    "age": "",
-    "difficulty": 0,
-    "type": "",
-    "image": ""
+    "players": "2-6",
+    "duration": "15",
+    "age": "13+",
+    "difficulty": 1,
+    "type": "Party",
+    "image": "https://cf.geekdo-images.com/MWhSY_GOe2-bmlQ2rntSVg__itemrep/img/QRw3T5XGsrRs-QKCSpzwE7nFqOg=/fit-in/246x300/filters:strip_icc()/pic2016054.jpg"
   },
   {
     "name": "Finger Twister",
-    "players": "",
-    "duration": "",
-    "age": "",
-    "difficulty": 0,
-    "type": "fiesta",
-    "image": ""
+    "players": "2",
+    "duration": "5",
+    "age": "3+",
+    "difficulty": 2,
+    "type": "Party",
+    "image": "https://cf.geekdo-images.com/2HsF5-w0oiRuvnPKMtsLyw__itemrep/img/FmhAwWGXr-6FXEvoUAJIbtVgyR8=/fit-in/246x300/filters:strip_icc()/pic7207612.jpg"
   },
   {
-    "name": "El juego de LIFE",
-    "players": "",
-    "duration": "",
-    "age": "",
-    "difficulty": 0,
-    "type": "familiar",
-    "image": ""
+    "name": "The Game of LIFE",
+    "players": "2-4",
+    "duration": "60",
+    "age": "8+",
+    "difficulty": 1,
+    "type": "Familiar",
+    "image": "https://cf.geekdo-images.com/zfG4LJqTIersZa6OQUlonw__itemrep/img/nwRu3J-YVf-fdOFXAeLowJhZF7Q=/fit-in/246x300/filters:strip_icc()/pic2397380.jpg"
   },
   {
     "name": "Monopoly",
-    "players": "",
-    "duration": "",
-    "age": "",
-    "difficulty": 0,
-    "type": "familiar",
-    "image": ""
+    "players": "2-6",
+    "duration": "120",
+    "age": "8+",
+    "difficulty": 2,
+    "type": "Familiar",
+    "image": "https://cf.geekdo-images.com/4BrenjlkNDKxWgntJouTpQ__itemrep/img/mcfGDc52FY1UIPsL9W7JlEMD8T0=/fit-in/246x300/filters:strip_icc()/pic2007865.jpg"
   },
   {
     "name": "Clue",
-    "players": "",
-    "duration": "",
-    "age": "",
-    "difficulty": 0,
-    "type": "misterio",
-    "image": ""
+    "players": "2-6",
+    "duration": "40",
+    "age": "8+",
+    "difficulty": 2,
+    "type": "Aventura",
+    "image": "https://cf.geekdo-images.com/qy5Ke1VeVuHc4RsNzqoGLQ__itemrep/img/otwOwl1XX4XCfGA63enqIKpRtaU=/fit-in/246x300/filters:strip_icc()/pic7398166.jpg"
   },
   {
     "name": "Próxima Estación LONDRES",
-    "players": "",
-    "duration": "",
-    "age": "",
-    "difficulty": 0,
-    "type": "",
-    "image": ""
+    "players": "1-4",
+    "duration": "30",
+    "age": "8+",
+    "difficulty": 1,
+    "type": "Familiar",
+    "image": "https://cf.geekdo-images.com/4rsQZkCUHeyxTlOBmTUFSA__itemrep/img/h3xr3jUiP9Z2paib33fAuQ4xMdw=/fit-in/246x300/filters:strip_icc()/pic6622999.jpg"
   },
   {
     "name": "UGA BUGA",
-    "players": "",
-    "duration": "",
-    "age": "",
-    "difficulty": 0,
-    "type": "",
-    "image": ""
+    "players": "2-10",
+    "duration": "20",
+    "age": "7+",
+    "difficulty": 1,
+    "type": "Temático",
+    "image": "https://cf.geekdo-images.com/Mk1mG-svu2lz7A6pUOjHMA__itemrep/img/Gzh90evRpvTNHXsKcO6M4VXeInk=/fit-in/246x300/filters:strip_icc()/pic8003116.jpg"
   },
   {
-    "name": "WE WILL ROC YOU",
-    "players": "",
-    "duration": "",
-    "age": "",
-    "difficulty": 0,
-    "type": "",
-    "image": ""
+    "name": "We Will Rock You",
+    "players": "4-12",
+    "duration": "30",
+    "age": "8+",
+    "difficulty": 1,
+    "type": "Party",
+    "image": "https://cf.geekdo-images.com/Y55vSPrIyR0TzP7vM0luHw__itemrep/img/Szl7K6RT3cEocOpk-OLVYQlJZdA=/fit-in/246x300/filters:strip_icc()/pic1638726.jpg"
   },
   {
-    "name": "GEEK OUT MASTERS",
-    "players": "",
-    "duration": "",
-    "age": "",
-    "difficulty": 0,
-    "type": "trivia",
-    "image": ""
+    "name": "Geek Out! Masters",
+    "players": "1-4",
+    "duration": "15",
+    "age": "6+",
+    "difficulty": 1,
+    "type": "Familiar",
+    "image": "https://cf.geekdo-images.com/MyHiLtMXFsi2crQhZA5hEA__itemrep/img/IaQ9Kq-OSITLMdNrdUD81y8LwsE=/fit-in/246x300/filters:strip_icc()/pic3513717.jpg"
   },
   {
-    "name": "CONTRAST",
-    "players": "",
-    "duration": "",
-    "age": "",
-    "difficulty": 0,
-    "type": "",
-    "image": ""
+    "name": "Contrast",
+    "players": "2-6",
+    "duration": "20",
+    "age": "8+",
+    "difficulty": 1,
+    "type": [
+      "Juego de Cartas",
+      "Party"
+    ],
+    "image": "https://cf.geekdo-images.com/_xOFzP_JPrHrltog_oMwtg__itemrep/img/PF2Po5hMmI1ychLWd5ajAVBKKb4=/fit-in/246x300/filters:strip_icc()/pic3788079.png"
   }
 ]
